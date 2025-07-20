@@ -1,4 +1,4 @@
-# 🐾 PetClinic V
+# 🐾 PetClinic
 
 Aplikasi Manajemen Klinik Hewan Menggunakan PHP Native  
 📍 Tugas Mata Kuliah - Pemrograman Web Dasar
